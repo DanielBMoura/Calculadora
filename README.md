@@ -4,7 +4,8 @@
 ## Sobre o projeto 🔍
 
 <p align="center">
-Calculadora web funcional desenvolvida com HTML, CSS e JavaScript puro. Inclui operações básicas, reset de valores e interface responsiva. Projeto focado na aplicação prática de manipulação do DOM e lógica de programação.
+Calculadora web funcional desenvolvida com HTML, CSS e JavaScript puro. Inclui operações básicas, reset de valores e interface responsiva. Projeto focado na aplicação prática de manipulação do DOM e lógica de programação.<br>
+Link do projeto: https://danielbmoura.github.io/Calculadora/
 </p>
 
 ## Funcionalidades ✨
